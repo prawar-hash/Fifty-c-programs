@@ -1,4 +1,4 @@
-# 56 C Programs 🚀
+# Fifty C Programs 🚀
 
 ## 📌 About
 
