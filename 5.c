@@ -18,10 +18,5 @@ int main()
 }
 
 
-Enter two numbers:
-10
-20
-After swapping:
-a = 20
-b = 10
+
 
